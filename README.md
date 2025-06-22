@@ -1,5 +1,12 @@
 # Como rodar
 
+1.Bibliotecas utilizadas: pandas, scikit-learn, numpy, jupyter.
+
+2.Baixe o dataset (OnlineRetail.csv, ele se encontra na pasta archive do repositorio).
+
+3.Execute o Jupyter Notebook.
+
+4.Abra e rode todas as células do arquivo SistemaDeRecomendações.ipynb.
 
 
 
